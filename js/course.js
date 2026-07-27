@@ -146,7 +146,7 @@ function initRegistrationValidation() {
 
             setTimeout(() => {
                 // Open WhatsApp link in new window
-                window.open(`https://wa.me/919876543210?text=${encodedText}`, '_blank');
+                window.open(`https://wa.me/918940704322?text=${encodedText}`, '_blank');
 
                 // Reset Form
                 registerForm.reset();

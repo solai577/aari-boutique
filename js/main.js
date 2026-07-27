@@ -182,7 +182,7 @@ function initContactValidation() {
 
             setTimeout(() => {
                 // Open WhatsApp chat in a new tab
-                window.open(`https://wa.me/919876543210?text=${whatsappText}`, '_blank');
+                window.open(`https://wa.me/918940704322?text=${whatsappText}`, '_blank');
                 
                 // Reset form
                 contactForm.reset();
