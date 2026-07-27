@@ -1,0 +1,9 @@
+# Windows system files
+[Dd]esktop.ini
+Thumbs.db
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
