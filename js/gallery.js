@@ -83,7 +83,7 @@ function initLightbox() {
 
             // Pre-fill WhatsApp link with design details
             if (enquiryBtn) {
-                const whatsappNumber = "918940704322"; // Chennai boutique contact
+                const whatsappNumber = "918940704322"; // Kamuthi boutique contact
                 const customMessage = encodeURIComponent(
                     `Hi, I am looking at your beautiful design: "${title || 'Aari Blouse'}" (Category: ${category || 'Embroidery'}). Please share pricing details and availability.`
                 );
